@@ -1,0 +1,376 @@
+@CHARSET "UTF-8";
+
+/*------ woc - banner ------*/
+#exterior #visual {background:url(../december/banner/1.jpg) no-repeat 50% 50%;background-size:cover;}
+#location #visual {background:url(../december/banner/1.jpg) no-repeat 50% 50%;background-size:cover;}
+#cafe #visual {background:url(../december/banner/2.jpg) no-repeat 50% 50%;background-size:cover;}
+#gallery #visual {background:url(../december/banner/3.jpg) no-repeat 50% 50%;background-size:cover;}
+#rpv #visual {background:url(../december/banner/4.jpg) no-repeat 50% 50%;background-size:cover;}
+#reserve #visual {background:url(../december/banner/5.jpg) no-repeat 50% 50%;background-size:cover;}
+#table #visual {background:url(../december/banner/5.jpg) no-repeat 50% 50%;background-size:cover;}
+
+/*------ woc - index ------*/
+#index .top_slide #item_01 {background:url(../december/main/top_slide/1.jpg) no-repeat 50% 50%;background-size:cover;}
+#index .top_slide #item_02 {background:url(../december/main/top_slide/2.jpg) no-repeat 50% 50%;background-size:cover;}
+#index .top_slide #item_03 {background:url(../december/main/top_slide/3.jpg) no-repeat 50% 50%;background-size:cover;}
+
+
+#index .bottom_slide #item_01 {background:url(../december/main/bottom_slide/1.jpg) no-repeat 50% 50%;background-size:cover;}
+#index .bottom_slide #item_02 {background:url(../december/main/bottom_slide/2.jpg) no-repeat 50% 50%;background-size:cover;}
+#index .bottom_slide #item_03 {background:url(../december/main/bottom_slide/3.jpg) no-repeat 50% 50%;background-size:cover;}
+#index .bottom_slide #item_04 {background:url(../december/main/bottom_slide/4.jpg) no-repeat 50% 50%;background-size:cover;}
+#index .bottom_slide #item_05 {background:url(../december/main/bottom_slide/5.jpg) no-repeat 50% 50%;background-size:cover;}
+#index .bottom_slide #item_06 {background:url(../december/main/bottom_slide/6.jpg) no-repeat 50% 50%;background-size:cover;}
+#index .bottom_slide #item_07 {background:url(../december/main/bottom_slide/7.jpg) no-repeat 50% 50%;background-size:cover;}
+#index .bottom_slide #item_08 {background:url(../december/main/bottom_slide/8.jpg) no-repeat 50% 50%;background-size:cover;}
+#index .bottom_slide #item_09 {background:url(../december/main/bottom_slide/9.jpg) no-repeat 50% 50%;background-size:cover;}
+#index .bottom_slide #item_10 {background:url(../december/main/bottom_slide/10.jpg) no-repeat 50% 50%;background-size:cover;}
+#index .bottom_slide #item_11 {background:url(http://rudrms1555.speedgabia.com/december/main/bottom_slide/11.jpg) no-repeat 50% 50%;background-size:cover;}
+#index .bottom_slide #item_12 {background:url(http://rudrms1555.speedgabia.com/december/main/bottom_slide/11.jpg) no-repeat 50% 50%;background-size:cover;}
+#index .bottom_slide #item_13 {background:url(http://rudrms1555.speedgabia.com/december/main/bottom_slide/13.jpg) no-repeat 50% 50%;background-size:cover;}
+#index .bottom_slide #item_14 {background:url(http://rudrms1555.speedgabia.com/december/main/bottom_slide/14.jpg) no-repeat 50% 50%;background-size:cover;}
+#index .bottom_slide #item_15 {background:url(http://rudrms1555.speedgabia.com/december/main/bottom_slide/15.jpg) no-repeat 50% 50%;background-size:cover;}
+#index .bottom_slide #item_16 {background:url(http://rudrms1555.speedgabia.com/december/main/bottom_slide/16.jpg) no-repeat 50% 50%;background-size:cover;}
+#index .bottom_slide #item_17 {background:url(http://rudrms1555.speedgabia.com/december/main/bottom_slide/17.jpg) no-repeat 50% 50%;background-size:cover;}
+
+#index #container .bak {background:url(../december/main/bn/1.jpeg) no-repeat 50% 50%;background-attachment:fixed;}
+
+#index #container .main_about .v_area .box .v1 {background:url(../december/main/top_slide/01.jpg) no-repeat 50% 50%;background-size:cover;}
+#index #container .main_about .v_area .box .v2 {background:url(../december/main/top_slide/2.jpg) no-repeat 50% 50%;background-size:cover;}
+#index #container .main_about .v_area .box .v3 {background:url(../december/main/top_slide/3.jpg) no-repeat 50% 50%;background-size:cover;}
+#index #container .main_about .v_area .box .v4 {background:url(../december/main/top_slide/4.jpg) no-repeat 50% 50%;background-size:cover;}
+
+#index #container .main_about .v_area ul li.vbtn_01 {background:url(../december/main/top_slide/01.jpg) no-repeat 50% 50%;background-size:cover;}
+#index #container .main_about .v_area ul li.vbtn_02 {background:url(../december/main/top_slide/2.jpg) no-repeat 50% 50%;background-size:cover;}
+#index #container .main_about .v_area ul li.vbtn_03 {background:url(../december/main/top_slide/3.jpg) no-repeat 50% 50%;background-size:cover;}
+#index #container .main_about .v_area ul li.vbtn_04 {background:url(../december/main/top_slide/4.jpg) no-repeat 50% 50%;background-size:cover;}
+
+
+#video .bottom_slide #item_01 {background:url(../december/main/bottom_slide/1.jpg) no-repeat 50% 50%;background-size:cover;}
+#video .bottom_slide #item_02 {background:url(../december/main/bottom_slide/2.jpg) no-repeat 50% 50%;background-size:cover;}
+#video .bottom_slide #item_03 {background:url(../december/main/bottom_slide/3.jpg) no-repeat 50% 50%;background-size:cover;}
+#video .bottom_slide #item_04 {background:url(../december/main/bottom_slide/4.jpg) no-repeat 50% 50%;background-size:cover;}
+#video .bottom_slide #item_05 {background:url(../december/main/bottom_slide/5.jpg) no-repeat 50% 50%;background-size:cover;}
+#video .bottom_slide #item_06 {background:url(../december/main/bottom_slide/6.jpg) no-repeat 50% 50%;background-size:cover;}
+#video .bottom_slide #item_07 {background:url(../december/main/bottom_slide/7.jpg) no-repeat 50% 50%;background-size:cover;}
+#video .bottom_slide #item_08 {background:url(../december/main/bottom_slide/8.jpg) no-repeat 50% 50%;background-size:cover;}
+#video .bottom_slide #item_09 {background:url(../december/main/bottom_slide/9.jpg) no-repeat 50% 50%;background-size:cover;}
+#video .bottom_slide #item_10 {background:url(../december/main/bottom_slide/10.jpg) no-repeat 50% 50%;background-size:cover;}
+#video .bottom_slide #item_11 {background:url(http://rudrms1555.speedgabia.com/december/main/bottom_slide/11.jpg) no-repeat 50% 50%;background-size:cover;}
+#video .bottom_slide #item_12 {background:url(http://rudrms1555.speedgabia.com/december/main/bottom_slide/11.jpg) no-repeat 50% 50%;background-size:cover;}
+#video .bottom_slide #item_13 {background:url(http://rudrms1555.speedgabia.com/december/main/bottom_slide/13.jpg) no-repeat 50% 50%;background-size:cover;}
+#video .bottom_slide #item_14 {background:url(http://rudrms1555.speedgabia.com/december/main/bottom_slide/14.jpg) no-repeat 50% 50%;background-size:cover;}
+#video .bottom_slide #item_15 {background:url(http://rudrms1555.speedgabia.com/december/main/bottom_slide/15.jpg) no-repeat 50% 50%;background-size:cover;}
+#video .bottom_slide #item_16 {background:url(http://rudrms1555.speedgabia.com/december/main/bottom_slide/16.jpg) no-repeat 50% 50%;background-size:cover;}
+#video .bottom_slide #item_17 {background:url(http://rudrms1555.speedgabia.com/december/main/bottom_slide/17.jpg) no-repeat 50% 50%;background-size:cover;}
+
+/*------ woc - exterior ------*/
+#exterior #item_01 {background:url(http://rudrms1555.speedgabia.com/december/exterior/1.jpg) no-repeat 50% 50%;background-size:cover;}
+#exterior #item_02 {background:url(http://rudrms1555.speedgabia.com/december/exterior/2.jpg) no-repeat 50% 50%;background-size:cover;}
+#exterior #item_03 {background:url(http://rudrms1555.speedgabia.com/december/exterior/3.jpg) no-repeat 50% 50%;background-size:cover;}
+#exterior #item_04 {background:url(http://rudrms1555.speedgabia.com/december/exterior/4.jpg) no-repeat 50% 50%;background-size:cover;}
+#exterior #item_05 {background:url(http://rudrms1555.speedgabia.com/december/exterior/5.jpg) no-repeat 50% 50%;background-size:cover;}
+#exterior #item_06 {background:url(http://rudrms1555.speedgabia.com/december/exterior/6.jpg) no-repeat 50% 50%;background-size:cover;}
+#exterior #item_07 {background:url(http://rudrms1555.speedgabia.com/december/exterior/7.jpg) no-repeat 50% 50%;background-size:cover;}
+#exterior #item_08 {background:url(http://rudrms1555.speedgabia.com/december/exterior/8.jpg) no-repeat 50% 50%;background-size:cover;}
+#exterior #item_09 {background:url(http://rudrms1555.speedgabia.com/december/exterior/9.jpg) no-repeat 50% 50%;background-size:cover;}
+#exterior #item_10 {background:url(http://rudrms1555.speedgabia.com/december/exterior/10.jpg) no-repeat 50% 50%;background-size:cover;}
+#exterior #item_11 {background:url(http://rudrms1555.speedgabia.com/december/exterior/11.jpg) no-repeat 50% 50%;background-size:cover;}
+#exterior #item_12 {background:url(http://rudrms1555.speedgabia.com/december/exterior/12.jpg) no-repeat 50% 50%;background-size:cover;}
+#exterior #item_13 {background:url(http://rudrms1555.speedgabia.com/december/exterior/13.jpg) no-repeat 50% 50%;background-size:cover;}
+
+/*------ woc - gallery ------*/
+#gallery #item_01 {background:url(../december/gallery/1.jpg) no-repeat 50% 50%;background-size:cover;}
+#gallery #item_02 {background:url(../december/gallery/2.jpg) no-repeat 50% 50%;background-size:cover;}
+#gallery #item_03 {background:url(../december/gallery/3.jpg) no-repeat 50% 50%;background-size:cover;}
+#gallery #item_04 {background:url(../december/gallery/4.jpg) no-repeat 50% 50%;background-size:cover;}
+#gallery #item_05 {background:url(../december/gallery/5.jpg) no-repeat 50% 50%;background-size:cover;}
+#gallery #item_06 {background:url(../december/gallery/6.jpg) no-repeat 50% 50%;background-size:cover;}
+#gallery #item_07 {background:url(../december/gallery/7.jpg) no-repeat 50% 50%;background-size:cover;}
+#gallery #item_08 {background:url(../december/gallery/8.jpg) no-repeat 50% 50%;background-size:cover;}
+#gallery #item_09 {background:url(../december/gallery/9.jpg) no-repeat 50% 50%;background-size:cover;}
+#gallery #item_10 {background:url(../december/gallery/10.jpg) no-repeat 50% 50%;background-size:cover;}
+#gallery #item_11 {background:url(../december/gallery/11.jpg) no-repeat 50% 50%;background-size:cover;}
+#gallery #item_12 {background:url(../december/gallery/12.jpg) no-repeat 50% 50%;background-size:cover;}
+#gallery #item_13 {background:url(../december/gallery/13.jpg) no-repeat 50% 50%;background-size:cover;}
+#gallery #item_14 {background:url(../december/gallery/14.jpg) no-repeat 50% 50%;background-size:cover;}
+#gallery #item_15 {background:url(../december/gallery/15.jpg) no-repeat 50% 50%;background-size:cover;}
+#gallery #item_16 {background:url(../december/gallery/16.jpg) no-repeat 50% 50%;background-size:cover;}
+#gallery #item_17 {background:url(../december/gallery/17.jpg) no-repeat 50% 50%;background-size:cover;}
+#gallery #item_18 {background:url(../december/gallery/18.jpg) no-repeat 50% 50%;background-size:cover;}
+#gallery #item_19 {background:url(../december/gallery/19.jpg) no-repeat 50% 50%;background-size:cover;}
+#gallery #item_20 {background:url(../december/gallery/20.jpg) no-repeat 50% 50%;background-size:cover;}
+#gallery #item_21 {background:url(../december/gallery/21.jpg) no-repeat 50% 50%;background-size:cover;}
+#gallery #item_22 {background:url(../december/gallery/22.jpg) no-repeat 50% 50%;background-size:cover;}
+#gallery #item_23 {background:url(../december/gallery/23.jpg) no-repeat 50% 50%;background-size:cover;}
+#gallery #item_24 {background:url(../december/gallery/24.jpg) no-repeat 50% 50%;background-size:cover;}
+#gallery #item_25 {background:url(../december/gallery/25.jpg) no-repeat 50% 50%;background-size:cover;}
+#gallery #item_26 {background:url(../december/gallery/26.jpg) no-repeat 50% 50%;background-size:cover;}
+#gallery #item_27 {background:url(../december/gallery/27.jpg) no-repeat 50% 50%;background-size:cover;}
+#gallery #item_28 {background:url(../december/gallery/28.jpg) no-repeat 50% 50%;background-size:cover;}
+#gallery #item_29 {background:url(../december/gallery/29.jpg) no-repeat 50% 50%;background-size:cover;}
+#gallery #item_30 {background:url(../december/gallery/30.jpg) no-repeat 50% 50%;background-size:cover;}
+#gallery #item_31 {background:url(../december/gallery/31.jpg) no-repeat 50% 50%;background-size:cover;}
+#gallery #item_32 {background:url(../december/gallery/32.jpg) no-repeat 50% 50%;background-size:cover;}
+#gallery #item_33 {background:url(../december/gallery/33.jpg) no-repeat 50% 50%;background-size:cover;}
+#gallery #item_34 {background:url(../december/gallery/34.jpg) no-repeat 50% 50%;background-size:cover;}
+#gallery #item_35 {background:url(../december/gallery/35.jpg) no-repeat 50% 50%;background-size:cover;}
+#gallery #item_36 {background:url(../december/gallery/36.jpg) no-repeat 50% 50%;background-size:cover;}
+#gallery #item_37 {background:url(../december/gallery/37.jpg) no-repeat 50% 50%;background-size:cover;}
+#gallery #item_38 {background:url(../december/gallery/38.jpg) no-repeat 50% 50%;background-size:cover;}
+#gallery #item_39 {background:url(../december/gallery/39.jpg) no-repeat 50% 50%;background-size:cover;}
+#gallery #item_40 {background:url(../december/gallery/40.jpg) no-repeat 50% 50%;background-size:cover;}
+#gallery #item_41 {background:url(../december/gallery/41.jpg) no-repeat 50% 50%;background-size:cover;}
+#gallery #item_42 {background:url(../december/gallery/42.jpg) no-repeat 50% 50%;background-size:cover;}
+#gallery #item_43 {background:url(../december/gallery/43.jpg) no-repeat 50% 50%;background-size:cover;}
+#gallery #item_44 {background:url(../december/gallery/44.jpg) no-repeat 50% 50%;background-size:cover;}
+#gallery #item_45 {background:url(../december/gallery/45.jpg) no-repeat 50% 50%;background-size:cover;}
+
+/*------ woc - rpv ------*/
+#rpv .img_box .lst_01_01 {background:url(../december/room/1/0.jpg) no-repeat 50% 50%;background-size:cover;}
+#rpv .img_box .lst_01_02 {background:url(../december/room/1/2.jpg) no-repeat 50% 50%;background-size:cover;}
+#rpv .img_box .lst_01_03 {background:url(../december/room/1/3.jpg) no-repeat 50% 50%;background-size:cover;}
+#rpv .img_box .lst_01_04 {background:url(../december/room/1/4.jpg) no-repeat 50% 50%;background-size:cover;}
+#rpv .img_box .lst_01_05 {background:url(../december/room/1/5.jpg) no-repeat 50% 50%;background-size:cover;}
+#rpv .img_box .lst_01_06 {background:url(../december/room/1/6.jpg) no-repeat 50% 50%;background-size:cover;}
+
+#rpv .img_box .lst_02_01 {background:url(../december/room/2/1.jpg) no-repeat 50% 50%;background-size:cover;}
+#rpv .img_box .lst_02_02 {background:url(../december/room/2/2.jpg) no-repeat 50% 50%;background-size:cover;}
+#rpv .img_box .lst_02_03 {background:url(../december/room/2/3.jpg) no-repeat 50% 50%;background-size:cover;}
+#rpv .img_box .lst_02_04 {background:url(../december/room/2/4.jpg) no-repeat 50% 50%;background-size:cover;}
+#rpv .img_box .lst_02_05 {background:url(../december/room/2/5.jpg) no-repeat 50% 50%;background-size:cover;}
+#rpv .img_box .lst_02_06 {background:url(../december/room/2/6.jpg) no-repeat 50% 50%;background-size:cover;}
+
+#rpv .img_box .lst_03_01 {background:url(../december/room/3/1.jpg) no-repeat 50% 50%;background-size:cover;}
+#rpv .img_box .lst_03_02 {background:url(../december/room/3/2.jpg) no-repeat 50% 50%;background-size:cover;}
+#rpv .img_box .lst_03_03 {background:url(../december/room/3/3.jpg) no-repeat 50% 50%;background-size:cover;}
+#rpv .img_box .lst_03_04 {background:url(../december/room/3/4.jpg) no-repeat 50% 50%;background-size:cover;}
+#rpv .img_box .lst_03_05 {background:url(../december/room/3/5.jpg) no-repeat 50% 50%;background-size:cover;}
+#rpv .img_box .lst_03_06 {background:url(../december/room/3/6.jpg) no-repeat 50% 50%;background-size:cover;}
+
+#rpv .img_box .lst_04_01 {background:url(../december/room/4/1.jpg) no-repeat 50% 50%;background-size:cover;}
+#rpv .img_box .lst_04_02 {background:url(../december/room/4/2.jpg) no-repeat 50% 50%;background-size:cover;}
+#rpv .img_box .lst_04_03 {background:url(../december/room/4/3.jpg) no-repeat 50% 50%;background-size:cover;}
+#rpv .img_box .lst_04_04 {background:url(../december/room/4/4.jpg) no-repeat 50% 50%;background-size:cover;}
+#rpv .img_box .lst_04_05 {background:url(../december/room/4/5.jpg) no-repeat 50% 50%;background-size:cover;}
+#rpv .img_box .lst_04_06 {background:url(../december/room/4/6.jpg) no-repeat 50% 50%;background-size:cover;}
+#rpv .img_box .lst_04_07 {background:url(../december/room/4/7.jpg) no-repeat 50% 50%;background-size:cover;}
+
+#rpv .img_box .lst_05_01 {background:url(../december/room/5/1.jpg) no-repeat 50% 50%;background-size:cover;}
+#rpv .img_box .lst_05_02 {background:url(../december/room/5/2.jpg) no-repeat 50% 50%;background-size:cover;}
+#rpv .img_box .lst_05_03 {background:url(../december/room/5/3.jpg) no-repeat 50% 50%;background-size:cover;}
+#rpv .img_box .lst_05_04 {background:url(../december/room/5/4.jpg) no-repeat 50% 50%;background-size:cover;}
+#rpv .img_box .lst_05_05 {background:url(../december/room/5/5.jpg) no-repeat 50% 50%;background-size:cover;}
+#rpv .img_box .lst_05_06 {background:url(../december/room/5/6.jpg) no-repeat 50% 50%;background-size:cover;}
+
+#rpv .img_box .lst_06_01 {background:url(../december/room/6/1.jpg) no-repeat 50% 50%;background-size:cover;}
+#rpv .img_box .lst_06_02 {background:url(../december/room/6/2.jpg) no-repeat 66% 50%;background-size:cover;}
+#rpv .img_box .lst_06_03 {background:url(../december/room/6/3.jpg) no-repeat 50% 50%;background-size:cover;}
+#rpv .img_box .lst_06_04 {background:url(../december/room/6/4.jpg) no-repeat 50% 50%;background-size:cover;}
+#rpv .img_box .lst_06_05 {background:url(../december/room/6/5.jpg) no-repeat 50% 50%;background-size:cover;}
+#rpv .img_box .lst_06_06 {background:url(../december/room/6/6.jpg) no-repeat 50% 50%;background-size:cover;}
+
+/*------ woc - room ------*/
+.room_01 .videos {background:url(../december/room/1/6.jpg) no-repeat 50% 50%;background-size:cover;}
+.room_01 .img_01 {background:url(../december/room/1/1.jpg) no-repeat 50% 50%;background-size:cover;}
+.room_01 .img_02 {background:url(../december/room/1/2.jpg) no-repeat 50% 50%;background-size:cover;}
+.room_01 .img_03 {background:url(../december/room/1/3.jpg) no-repeat 50% 50%;background-size:cover;}
+.room_01 .img_04 {background:url(../december/room/1/4.jpg) no-repeat 50% 50%;background-attachment:fixed;}
+.room_01 .img_05 {background:url(../december/room/1/5.jpg) no-repeat 50% 50%;background-size:cover;}
+.room_01 .img_06 {background:url(../december/room/1/6.jpg) no-repeat 50% 50%;background-size:cover;}
+
+.room_01 #item_01 {background:url(../december/room/1/1.jpg) no-repeat 50% 50%;background-size:cover;}
+.room_01 #item_02 {background:url(../december/room/1/2.jpg) no-repeat 50% 50%;background-size:cover;}
+.room_01 #item_03 {background:url(../december/room/1/3.jpg) no-repeat 50% 50%;background-size:cover;}
+.room_01 #item_04 {background:url(../december/room/1/4.jpg) no-repeat 50% 50%;background-size:cover;}
+.room_01 #item_05 {background:url(../december/room/1/5.jpg) no-repeat 50% 50%;background-size:cover;}
+.room_01 #item_06 {background:url(../december/room/1/6.jpg) no-repeat 50% 50%;background-size:cover;}
+.room_01 #item_07 {background:url(../december/room/1/7.jpg) no-repeat 50% 50%;background-size:cover;}
+.room_01 #item_08 {background:url(../december/room/1/8.jpg) no-repeat 50% 50%;background-size:cover;}
+.room_01 #item_09 {background:url(../december/room/1/9.jpg) no-repeat 50% 50%;background-size:cover;}
+.room_01 #item_10 {background:url(http://rudrms1555.speedgabia.com/december/room/1/10.jpg) no-repeat 50% 50%;background-size:cover;}
+
+.room_02 .videos {background:url(../december/room/2/7.jpg) no-repeat 50% 50%;background-size:cover;}
+.room_02 .img_01 {background:url(../december/room/2/1.jpg) no-repeat 50% 50%;background-size:cover;}
+.room_02 .img_02 {background:url(../december/room/2/2.jpg) no-repeat 50% 50%;background-size:cover;}
+.room_02 .img_03 {background:url(../december/room/2/3.jpg) no-repeat 50% 50%;background-size:cover;}
+.room_02 .img_04 {background:url(../december/room/2/4.jpg) no-repeat 50% 50%;background-attachment:fixed;}
+.room_02 .img_05 {background:url(../december/room/2/5.jpg) no-repeat 50% 50%;background-size:cover;}
+.room_02 .img_06 {background:url(../december/room/2/6.jpg) no-repeat 50% 50%;background-size:cover;}
+
+.room_02 #item_01 {background:url(../december/room/2/1.jpg) no-repeat 50% 50%;background-size:cover;}
+.room_02 #item_02 {background:url(../december/room/2/2.jpg) no-repeat 50% 50%;background-size:cover;}
+.room_02 #item_03 {background:url(../december/room/2/3.jpg) no-repeat 50% 50%;background-size:cover;}
+.room_02 #item_04 {background:url(../december/room/2/4.jpg) no-repeat 50% 50%;background-size:cover;}
+.room_02 #item_05 {background:url(../december/room/2/5.jpg) no-repeat 50% 50%;background-size:cover;}
+.room_02 #item_06 {background:url(../december/room/2/6.jpg) no-repeat 50% 50%;background-size:cover;}
+.room_02 #item_07 {background:url(../december/room/2/7.jpg) no-repeat 50% 50%;background-size:cover;}
+.room_02 #item_08 {background:url(../december/room/2/8.jpg) no-repeat 50% 50%;background-size:cover;}
+.room_02 #item_09 {background:url(http://rudrms1555.speedgabia.com/december/room/2/9.jpg) no-repeat 50% 50%;background-size:cover;}
+.room_02 #item_10 {background:url(http://rudrms1555.speedgabia.com/december/room/2/10.jpg) no-repeat 50% 50%;background-size:cover;}
+.room_02 #item_11 {background:url(http://rudrms1555.speedgabia.com/december/room/2/11.jpg) no-repeat 50% 50%;background-size:cover;}
+
+.room_03 .videos {background:url(../december/room/3/7.jpg) no-repeat 50% 50%;background-size:cover;}
+.room_03 .img_01 {background:url(../december/room/3/1.jpg) no-repeat 50% 50%;background-size:cover;}
+.room_03 .img_02 {background:url(../december/room/3/2.jpg) no-repeat 50% 50%;background-size:cover;}
+.room_03 .img_03 {background:url(../december/room/3/3.jpg) no-repeat 50% 50%;background-size:cover;}
+.room_03 .img_04 {background:url(../december/room/3/4.jpg) no-repeat 50% 50%;background-attachment:fixed;}
+.room_03 .img_05 {background:url(../december/room/3/5.jpg) no-repeat 50% 50%;background-size:cover;}
+.room_03 .img_06 {background:url(../december/room/3/6.jpg) no-repeat 50% 50%;background-size:cover;}
+
+.room_03 #item_01 {background:url(../december/room/3/1.jpg) no-repeat 50% 50%;background-size:cover;}
+.room_03 #item_02 {background:url(../december/room/3/2.jpg) no-repeat 50% 50%;background-size:cover;}
+.room_03 #item_03 {background:url(../december/room/3/3.jpg) no-repeat 50% 50%;background-size:cover;}
+.room_03 #item_04 {background:url(../december/room/3/4.jpg) no-repeat 50% 50%;background-size:cover;}
+.room_03 #item_05 {background:url(../december/room/3/5.jpg) no-repeat 50% 50%;background-size:cover;}
+.room_03 #item_06 {background:url(../december/room/3/6.jpg) no-repeat 50% 50%;background-size:cover;}
+.room_03 #item_07 {background:url(../december/room/3/7.jpg) no-repeat 50% 50%;background-size:cover;}
+.room_03 #item_08 {background:url(http://rudrms1555.speedgabia.com/december/room/3/8.jpg) no-repeat 50% 50%;background-size:cover;}
+.room_03 #item_09 {background:url(http://rudrms1555.speedgabia.com/december/room/3/9.jpg) no-repeat 50% 50%;background-size:cover;}
+.room_03 #item_10 {background:url(http://rudrms1555.speedgabia.com/december/room/3/10.jpg) no-repeat 50% 50%;background-size:cover;}
+.room_03 #item_11 {background:url(http://rudrms1555.speedgabia.com/december/room/3/11.jpg) no-repeat 50% 50%;background-size:cover;}
+
+.room_04 .videos {background:url(../december/room/4/5.jpg) no-repeat 50% 50%;background-size:cover;}
+.room_04 .img_01 {background:url(../december/room/4/1.jpg) no-repeat 50% 50%;background-size:cover;}
+.room_04 .img_02 {background:url(../december/room/4/2.jpg) no-repeat 50% 50%;background-size:cover;}
+.room_04 .img_03 {background:url(../december/room/4/3.jpg) no-repeat 50% 50%;background-size:cover;}
+.room_04 .img_04 {background:url(../december/room/4/4.jpg) no-repeat 50% 50%;background-attachment:fixed;}
+.room_04 .img_05 {background:url(../december/room/4/5.jpg) no-repeat 50% 50%;background-size:cover;}
+.room_04 .img_06 {background:url(../december/room/4/6.jpg) no-repeat 50% 50%;background-size:cover;}
+.room_04 .img_07 {background:url(../december/room/4/7.jpg) no-repeat 50% 50%;background-size:cover;}
+
+.room_04 #item_01 {background:url(../december/room/4/1.jpg) no-repeat 50% 50%;background-size:cover;}
+.room_04 #item_02 {background:url(../december/room/4/2.jpg) no-repeat 50% 50%;background-size:cover;}
+.room_04 #item_03 {background:url(../december/room/4/3.jpg) no-repeat 50% 50%;background-size:cover;}
+.room_04 #item_04 {background:url(../december/room/4/4.jpg) no-repeat 50% 50%;background-size:cover;}
+.room_04 #item_05 {background:url(../december/room/4/5.jpg) no-repeat 50% 50%;background-size:cover;}
+.room_04 #item_06 {background:url(../december/room/4/6.jpg) no-repeat 50% 50%;background-size:cover;}
+.room_04 #item_07 {background:url(../december/room/4/7.jpg) no-repeat 50% 50%;background-size:cover;}
+.room_04 #item_08 {background:url(http://rudrms1555.speedgabia.com/december/room/4/8.jpg) no-repeat 50% 50%;background-size:cover;}
+.room_04 #item_09 {background:url(http://rudrms1555.speedgabia.com/december/room/4/9.jpg) no-repeat 50% 50%;background-size:cover;}
+.room_04 #item_10 {background:url(http://rudrms1555.speedgabia.com/december/room/4/10.jpg) no-repeat 50% 50%;background-size:cover;}
+
+.room_05 .videos {background:url(../december/room/5/8.jpg) no-repeat 50% 50%;background-size:cover;}
+.room_05 .img_01 {background:url(../december/room/5/1.jpg) no-repeat 50% 50%;background-size:cover;}
+.room_05 .img_02 {background:url(../december/room/5/2.jpg) no-repeat 50% 50%;background-size:cover;}
+.room_05 .img_03 {background:url(../december/room/5/3.jpg) no-repeat 50% 50%;background-size:cover;}
+.room_05 .img_04 {background:url(../december/room/5/4.jpg) no-repeat 50% 50%;background-attachment:fixed;}
+.room_05 .img_05 {background:url(../december/room/5/5.jpg) no-repeat 50% 50%;background-size:cover;}
+.room_05 .img_06 {background:url(../december/room/5/6.jpg) no-repeat 50% 50%;background-size:cover;}
+
+.room_05 #item_01 {background:url(../december/room/5/1.jpg) no-repeat 50% 50%;background-size:cover;}
+.room_05 #item_02 {background:url(../december/room/5/2.jpg) no-repeat 50% 50%;background-size:cover;}
+.room_05 #item_03 {background:url(../december/room/5/3.jpg) no-repeat 50% 50%;background-size:cover;}
+.room_05 #item_04 {background:url(../december/room/5/4.jpg) no-repeat 50% 50%;background-size:cover;}
+.room_05 #item_05 {background:url(../december/room/5/5.jpg) no-repeat 50% 50%;background-size:cover;}
+.room_05 #item_06 {background:url(../december/room/5/6.jpg) no-repeat 50% 50%;background-size:cover;}
+.room_05 #item_07 {background:url(../december/room/5/7.jpg) no-repeat 50% 50%;background-size:cover;}
+.room_05 #item_08 {background:url(../december/room/5/8.jpg) no-repeat 50% 50%;background-size:cover;}
+.room_05 #item_09 {background:url(../december/room/5/9.jpg) no-repeat 50% 50%;background-size:cover;}
+.room_05 #item_10 {background:url(../december/room/5/10.jpg) no-repeat 50% 50%;background-size:cover;}
+
+.room_06 .videos {background:url(../december/room/6/8.jpg) no-repeat 50% 50%;background-size:cover;}
+.room_06 .img_01 {background:url(../december/room/6/1.jpg) no-repeat 50% 50%;background-size:cover;}
+.room_06 .img_02 {background:url(../december/room/6/2.jpg) no-repeat 50% 50%;background-size:cover;}
+.room_06 .img_03 {background:url(../december/room/6/3.jpg) no-repeat 50% 50%;background-size:cover;}
+.room_06 .img_04 {background:url(../december/room/6/4.jpg) no-repeat 50% 50%;background-attachment:fixed;}
+.room_06 .img_05 {background:url(../december/room/6/5.jpg) no-repeat 50% 50%;background-size:cover;}
+.room_06 .img_06 {background:url(../december/room/6/6.jpg) no-repeat 50% 50%;background-size:cover;}
+
+.room_06 #item_01 {background:url(../december/room/6/1.jpg) no-repeat 50% 50%;background-size:cover;}
+.room_06 #item_02 {background:url(../december/room/6/2.jpg) no-repeat 50% 50%;background-size:cover;}
+.room_06 #item_03 {background:url(../december/room/6/3.jpg) no-repeat 50% 50%;background-size:cover;}
+.room_06 #item_04 {background:url(../december/room/6/4.jpg) no-repeat 50% 50%;background-size:cover;}
+.room_06 #item_05 {background:url(../december/room/6/5.jpg) no-repeat 50% 50%;background-size:cover;}
+.room_06 #item_06 {background:url(../december/room/6/6.jpg) no-repeat 50% 50%;background-size:cover;}
+.room_06 #item_07 {background:url(../december/room/6/7.jpg) no-repeat 50% 50%;background-size:cover;}
+.room_06 #item_08 {background:url(../december/room/6/8.jpg) no-repeat 50% 50%;background-size:cover;}
+.room_06 #item_09 {background:url(../december/room/6/9.jpg) no-repeat 50% 50%;background-size:cover;}
+.room_06 #item_10 {background:url(../december/room/6/10.jpg) no-repeat 50% 50%;background-size:cover;}
+
+/*------ woc - fpv ------*/
+#fpv .flst_01 .img {background:url(http://rudrms1555.speedgabia.com/december/facility/1/1.jpg) no-repeat 50% 50%;background-size:cover;}
+#fpv .flst_02 .img {background:url(http://rudrms1555.speedgabia.com/december/facility/2/1.jpg) no-repeat 50% 50%;background-size:cover;}
+#fpv .flst_03 .img {background:url(http://rudrms1555.speedgabia.com/december/facility/3/1.jpg) no-repeat 50% 50%;background-size:cover;}
+#fpv .flst_04 .img {background:url(http://rudrms1555.speedgabia.com/december/facility/4/1.jpg) no-repeat 50% 50%;background-size:cover;}
+#fpv .flst_05 .img {background:url(http://rudrms1555.speedgabia.com/december/facility/5/1.jpg) no-repeat 50% 50%;background-size:cover;}
+#fpv .flst_06 .img {background:url(http://rudrms1555.speedgabia.com/december/facility/6/1.jpg) no-repeat 50% 50%;background-size:cover;}
+#fpv .flst_07 .img {background:url(http://rudrms1555.speedgabia.com/december/facility/7/1.jpg) no-repeat 50% 50%;background-size:cover;}
+
+/*------ woc - facility ------*/
+.facility_01 #slide_01 {background:url(http://rudrms1555.speedgabia.com/december/facility/1/1.jpg) no-repeat 50% 50%;background-size:cover;}
+.facility_01 #slide_02 {background:url(http://rudrms1555.speedgabia.com/december/facility/1/2.jpg) no-repeat 50% 50%;background-size:cover;}
+.facility_01 #slide_03 {background:url(http://rudrms1555.speedgabia.com/december/facility/1/3.jpg) no-repeat 50% 50%;background-size:cover;}
+.facility_01 #slide_04 {background:url(http://rudrms1555.speedgabia.com/december/facility/1/4.jpg) no-repeat 50% 50%;background-size:cover;}
+.facility_01 #slide_05 {background:url(http://rudrms1555.speedgabia.com/december/facility/1/5.jpg) no-repeat 50% 50%;background-size:cover;}
+.facility_01 #slide_06 {background:url(http://rudrms1555.speedgabia.com/december/facility/1/6.jpg) no-repeat 50% 50%;background-size:cover;}
+.facility_01 #slide_07 {background:url(http://rudrms1555.speedgabia.com/december/facility/1/7.jpg) no-repeat 50% 50%;background-size:cover;}
+.facility_01 #slide_08 {background:url(http://rudrms1555.speedgabia.com/december/facility/1/8.jpg) no-repeat 50% 50%;background-size:cover;}
+.facility_01 #slide_09 {background:url(http://rudrms1555.speedgabia.com/december/facility/1/9.jpg) no-repeat 50% 50%;background-size:cover;}
+.facility_01 #slide_10 {background:url(http://rudrms1555.speedgabia.com/december/facility/1/10.jpg) no-repeat 50% 50%;background-size:cover;}
+
+.facility_02 #slide_01 {background:url(http://rudrms1555.speedgabia.com/december/facility/2/1.jpg) no-repeat 50% 50%;background-size:cover;}
+.facility_02 #slide_02 {background:url(http://rudrms1555.speedgabia.com/december/facility/2/2.jpg) no-repeat 50% 50%;background-size:cover;}
+.facility_02 #slide_03 {background:url(http://rudrms1555.speedgabia.com/december/facility/2/3.jpg) no-repeat 50% 50%;background-size:cover;}
+.facility_02 #slide_04 {background:url(http://rudrms1555.speedgabia.com/december/facility/2/4.jpg) no-repeat 50% 50%;background-size:cover;}
+.facility_02 #slide_05 {background:url(http://rudrms1555.speedgabia.com/december/facility/2/5.jpg) no-repeat 50% 50%;background-size:cover;}
+.facility_02 #slide_06 {background:url(http://rudrms1555.speedgabia.com/december/facility/2/6.jpg) no-repeat 50% 50%;background-size:cover;}
+.facility_02 #slide_07 {background:url(http://rudrms1555.speedgabia.com/december/facility/2/7.jpg) no-repeat 50% 50%;background-size:cover;}
+.facility_02 #slide_08 {background:url(http://rudrms1555.speedgabia.com/december/facility/2/8.jpg) no-repeat 50% 50%;background-size:cover;}
+.facility_02 #slide_09 {background:url(http://rudrms1555.speedgabia.com/december/facility/2/9.jpg) no-repeat 50% 50%;background-size:cover;}
+.facility_02 #slide_10 {background:url(http://rudrms1555.speedgabia.com/december/facility/2/10.jpg) no-repeat 50% 50%;background-size:cover;}
+
+.facility_03 #slide_01 {background:url(http://rudrms1555.speedgabia.com/december/facility/3/1.jpg) no-repeat 50% 50%;background-size:cover;}
+.facility_03 #slide_02 {background:url(http://rudrms1555.speedgabia.com/december/facility/3/2.jpg) no-repeat 50% 50%;background-size:cover;}
+.facility_03 #slide_03 {background:url(http://rudrms1555.speedgabia.com/december/facility/3/3.jpg) no-repeat 50% 50%;background-size:cover;}
+.facility_03 #slide_04 {background:url(http://rudrms1555.speedgabia.com/december/facility/3/4.jpg) no-repeat 50% 50%;background-size:cover;}
+.facility_03 #slide_05 {background:url(http://rudrms1555.speedgabia.com/december/facility/3/5.jpg) no-repeat 50% 50%;background-size:cover;}
+.facility_03 #slide_06 {background:url(http://rudrms1555.speedgabia.com/december/facility/3/6.jpg) no-repeat 50% 50%;background-size:cover;}
+.facility_03 #slide_07 {background:url(http://rudrms1555.speedgabia.com/december/facility/3/7.jpg) no-repeat 50% 50%;background-size:cover;}
+.facility_03 #slide_08 {background:url(http://rudrms1555.speedgabia.com/december/facility/3/8.jpg) no-repeat 50% 50%;background-size:cover;}
+.facility_03 #slide_09 {background:url(http://rudrms1555.speedgabia.com/december/facility/3/9.jpg) no-repeat 50% 50%;background-size:cover;}
+.facility_03 #slide_10 {background:url(http://rudrms1555.speedgabia.com/december/facility/3/10.jpg) no-repeat 50% 50%;background-size:cover;}
+
+.facility_04 #slide_01 {background:url(http://rudrms1555.speedgabia.com/december/facility/4/1.jpg) no-repeat 50% 50%;background-size:cover;}
+.facility_04 #slide_02 {background:url(http://rudrms1555.speedgabia.com/december/facility/4/2.jpg) no-repeat 50% 50%;background-size:cover;}
+.facility_04 #slide_03 {background:url(http://rudrms1555.speedgabia.com/december/facility/4/3.jpg) no-repeat 50% 50%;background-size:cover;}
+.facility_04 #slide_04 {background:url(http://rudrms1555.speedgabia.com/december/facility/4/4.jpg) no-repeat 50% 50%;background-size:cover;}
+.facility_04 #slide_05 {background:url(http://rudrms1555.speedgabia.com/december/facility/4/5.jpg) no-repeat 50% 50%;background-size:cover;}
+.facility_04 #slide_06 {background:url(http://rudrms1555.speedgabia.com/december/facility/4/6.jpg) no-repeat 50% 50%;background-size:cover;}
+.facility_04 #slide_07 {background:url(http://rudrms1555.speedgabia.com/december/facility/4/7.jpg) no-repeat 50% 50%;background-size:cover;}
+.facility_04 #slide_08 {background:url(http://rudrms1555.speedgabia.com/december/facility/4/8.jpg) no-repeat 50% 50%;background-size:cover;}
+.facility_04 #slide_09 {background:url(http://rudrms1555.speedgabia.com/december/facility/4/9.jpg) no-repeat 50% 50%;background-size:cover;}
+.facility_04 #slide_10 {background:url(http://rudrms1555.speedgabia.com/december/facility/4/10.jpg) no-repeat 50% 50%;background-size:cover;}
+
+.facility_05 #slide_01 {background:url(http://rudrms1555.speedgabia.com/december/facility/5/1.jpg) no-repeat 50% 50%;background-size:cover;}
+.facility_05 #slide_02 {background:url(http://rudrms1555.speedgabia.com/december/facility/5/2.jpg) no-repeat 50% 50%;background-size:cover;}
+.facility_05 #slide_03 {background:url(http://rudrms1555.speedgabia.com/december/facility/5/3.jpg) no-repeat 50% 50%;background-size:cover;}
+.facility_05 #slide_04 {background:url(http://rudrms1555.speedgabia.com/december/facility/5/4.jpg) no-repeat 50% 50%;background-size:cover;}
+.facility_05 #slide_05 {background:url(http://rudrms1555.speedgabia.com/december/facility/5/5.jpg) no-repeat 50% 50%;background-size:cover;}
+.facility_05 #slide_06 {background:url(http://rudrms1555.speedgabia.com/december/facility/5/6.jpg) no-repeat 50% 50%;background-size:cover;}
+.facility_05 #slide_07 {background:url(http://rudrms1555.speedgabia.com/december/facility/5/7.jpg) no-repeat 50% 50%;background-size:cover;}
+.facility_05 #slide_08 {background:url(http://rudrms1555.speedgabia.com/december/facility/5/8.jpg) no-repeat 50% 50%;background-size:cover;}
+.facility_05 #slide_09 {background:url(http://rudrms1555.speedgabia.com/december/facility/5/9.jpg) no-repeat 50% 50%;background-size:cover;}
+.facility_05 #slide_10 {background:url(http://rudrms1555.speedgabia.com/december/facility/5/10.jpg) no-repeat 50% 50%;background-size:cover;}
+
+.facility_06 #slide_01 {background:url(http://rudrms1555.speedgabia.com/december/facility/6/1.jpg) no-repeat 50% 50%;background-size:cover;}
+.facility_06 #slide_02 {background:url(http://rudrms1555.speedgabia.com/december/facility/6/2.jpg) no-repeat 50% 50%;background-size:cover;}
+.facility_06 #slide_03 {background:url(http://rudrms1555.speedgabia.com/december/facility/6/3.jpg) no-repeat 50% 50%;background-size:cover;}
+.facility_06 #slide_04 {background:url(http://rudrms1555.speedgabia.com/december/facility/6/4.jpg) no-repeat 50% 50%;background-size:cover;}
+.facility_06 #slide_05 {background:url(http://rudrms1555.speedgabia.com/december/facility/6/5.jpg) no-repeat 50% 50%;background-size:cover;}
+.facility_06 #slide_06 {background:url(http://rudrms1555.speedgabia.com/december/facility/6/6.jpg) no-repeat 50% 50%;background-size:cover;}
+.facility_06 #slide_07 {background:url(http://rudrms1555.speedgabia.com/december/facility/6/7.jpg) no-repeat 50% 50%;background-size:cover;}
+.facility_06 #slide_08 {background:url(http://rudrms1555.speedgabia.com/december/facility/6/8.jpg) no-repeat 50% 50%;background-size:cover;}
+.facility_06 #slide_09 {background:url(http://rudrms1555.speedgabia.com/december/facility/6/9.jpg) no-repeat 50% 50%;background-size:cover;}
+.facility_06 #slide_10 {background:url(http://rudrms1555.speedgabia.com/december/facility/6/10.jpg) no-repeat 50% 50%;background-size:cover;}
+
+.facility_07 #slide_01 {background:url(http://rudrms1555.speedgabia.com/december/facility/7/1.jpg) no-repeat 50% 50%;background-size:cover;}
+.facility_07 #slide_02 {background:url(http://rudrms1555.speedgabia.com/december/facility/7/2.jpg) no-repeat 50% 50%;background-size:cover;}
+.facility_07 #slide_03 {background:url(http://rudrms1555.speedgabia.com/december/facility/7/3.jpg) no-repeat 50% 50%;background-size:cover;}
+.facility_07 #slide_04 {background:url(http://rudrms1555.speedgabia.com/december/facility/7/4.jpg) no-repeat 50% 50%;background-size:cover;}
+.facility_07 #slide_05 {background:url(http://rudrms1555.speedgabia.com/december/facility/7/5.jpg) no-repeat 50% 50%;background-size:cover;}
+.facility_07 #slide_06 {background:url(http://rudrms1555.speedgabia.com/december/facility/7/6.jpg) no-repeat 50% 50%;background-size:cover;}
+.facility_07 #slide_07 {background:url(http://rudrms1555.speedgabia.com/december/facility/7/7.jpg) no-repeat 50% 50%;background-size:cover;}
+.facility_07 #slide_08 {background:url(http://rudrms1555.speedgabia.com/december/facility/7/8.jpg) no-repeat 50% 50%;background-size:cover;}
+.facility_07 #slide_09 {background:url(http://rudrms1555.speedgabia.com/december/facility/7/9.jpg) no-repeat 50% 50%;background-size:cover;}
+.facility_07 #slide_10 {background:url(http://rudrms1555.speedgabia.com/december/facility/7/10.jpg) no-repeat 50% 50%;background-size:cover;}

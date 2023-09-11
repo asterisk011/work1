@@ -1,0 +1,120 @@
+﻿<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=Edge">
+<title>mAisOn</title>
+<meta name="description" id="description" content="부산펜션, 루프탑바베큐, 모던인테리어, 오션뷰, 커플펜션, 가족펜션">
+<meta name="keywords" id="keywords" content="부산펜션, 루프탑바베큐, 모던인테리어, 오션뷰, 커플펜션, 가족펜션">
+<meta name="Resource-type" content="Document">
+
+<link rel="shortcut icon" href="favicon.ico">
+<link rel="stylesheet" media="all" href="css/base.css">
+<link rel="stylesheet" media="all" href="css/swiper.css">
+<link rel="stylesheet" media="all" href="css/common.css">
+<link rel="stylesheet" media="all" href="css/images.css">
+
+<script src="ajax/libs/jquery/1.12.1/jquery.min.js"></script>
+<script src="ajax/libs/jqueryui/1.12.1/jquery-ui.min.js"></script>
+<script type="text/javascript" src="js/gambit-smoothscroll-min.js"></script>
+<script type="text/javascript" src="js/common.js"></script>
+<script type="text/javascript" src="js/modify.js"></script>
+</head>
+<body id="location" class="about">
+<header>
+	<hgroup>
+		<h1><a href="index.html"><img src="images/logo.png" alt="" width="240" height="30"></a></h1>
+	</hgroup>	
+	<nav class="nav">
+		<ul>
+			<li><a href="video.html">mAisOn</a></li>
+			<li class="glst_02"><a href="room_preview.html">ROOM</a>
+				<ul>
+					<li class="first"><a href="room_01.html">몽뜨</a></li>
+					<li><a href="room_02.html">오션</a></li>
+					<li><a href="room_03.html">메르</a></li>
+					<li><a href="room_04.html">시엘</a></li>
+					<li><a href="room_05.html">포레</a></li>
+					<li class="last"><a href="room_06.html">베이</a></li>
+				</ul>
+			</li>
+			<li class="glst_03"><a href="reserve.html?reserve=gd">RESERVATION</a>
+				<ul>
+					<li class="first"><a href="reserve.html?reserve=gd">예약 안내</a></li>
+					<li class="last"><a href="https://booking.naver.com/booking/3/bizes/272912">실시간 예약</a></li>
+				</ul>			
+			</li>
+			<li><a href="gallery.html">GALLERY</a></li>
+			<li><a href="location.html">LOCATION</a></li>			
+			<li><a href="index.html">BOARD</a></li>	
+		</ul>
+	</nav>
+</header><div id="container">
+	<!--div id="visual">
+		<h2>오시는 길<span>- Location -</span></h2>
+	</div-->
+	
+	<div id="contents">
+		<div class="cont">
+			<div class="address">
+				<h3>오시는 길<span>address</span></h3>
+				<p>
+					주소 | 부산 기장군 기장읍 당사로3길 31
+				</p>
+			</div>
+			<div class="public">
+				<h3>주차안내<span>parking</span></h3>
+				<p>
+					<span>[오시는길]</span>
+					네비게이션 검색 : 부산 기장군 기장읍 당사로3길 31
+				</p>
+				<p>
+					<span>[주차]</span>
+					건물주차장(당사로3길 31)/양경마을주차장(당사로1길 35)				</p>				
+			</div>			
+			
+			<div id="map"></div>
+			<!--카카오 지도 appkey 
+			
+				<script type="text/javascript" src="//dapi.kakao.com/v2/maps/sdk.js?appkey=5fdfee158b0708427af7344b5c2cfeb9&libraries=services"></script>
+			-->
+			<!-- 지도 좌표 
+			<script type="text/javascript">
+				var mapContainer = document.getElementById('map'),mapOption = { 
+					center: new daum.maps.LatLng(34.909267, 128.028082), level:3};
+				var map = new daum.maps.Map(mapContainer, mapOption); 
+				var markerPosition  = new daum.maps.LatLng(34.909267, 128.028082);
+				var marker = new daum.maps.Marker({position: markerPosition});
+				marker.setMap(map);map.setZoomable(false);  
+				var mapTypeControl = new daum.maps.MapTypeControl();
+				map.addControl(mapTypeControl, daum.maps.ControlPosition.TOPLEFT);
+				var zoomControl = new daum.maps.ZoomControl();
+				map.addControl(zoomControl, daum.maps.ControlPosition.LEFT); 	
+			</script>-->				
+			<!--iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3271.8884824872134!2d128.02588291458142!3d34.90924797952923!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x356e8bc908aeaabd%3A0xb27b0ec3bfd1ce6f!2z6rK97IOB64Ko64-EIOuCqO2VtOq1sCDssL3shKDrqbQg64yA67K966asIDUw!5e0!3m2!1sko!2skr!4v1587315802955!5m2!1sko!2skr" width="100%" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe-->
+		</div>
+			<footer>
+	<div class="footer_box">
+		<div class="f_nav">
+			<ul>
+				<li><a href="video.html">VIDEO</a></li>
+				<li><a href="room_preview.html">ROOM</a></li>
+				<li><a href="gallery.html">GALLERY</a></li>
+				<li><a href="location.html">LOCATION</a></li>
+			</ul>
+			<a href="reserve.html?reserve=gd" class="f_rv">RESERVATION</a>
+		</div>
+		<div class="left">
+			<address></address>
+			<ul class="sns">
+				<li><a href="https://theinstaprofile.com/instagram/namhae.mAisOn" class="sns_01"><img src="images/fsns_01.jpg" alt="" width="106" height="25"></a></li>
+				<li><a href="#" class="sns_02"><img src="images/fsns_02.jpg" alt="" width="106" height="25"></a></li>
+				<li><a href="#" class="sns_03"><img src="images/fsns_03.jpg" alt="" width="106" height="25"></a></li>
+			</ul>
+		</div>	
+
+	</div>	
+</footer>		</div>
+</div>
+</body>
+</html>
